@@ -1,2 +1,2 @@
-# hackathon-lambda-authorization
-Hackathon - Lambda para Autorização
+# lambda-authorization
+Repositório para o Lambda de autorização
